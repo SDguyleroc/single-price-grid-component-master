@@ -13,7 +13,7 @@ body {
 *, *:before, *:after {
 box-sizing: inherit;
 }
-ul {
+#navul {
     display: flex;
     justify-content: space-between;
     flex-direction: row;
