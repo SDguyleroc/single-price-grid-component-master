@@ -14,8 +14,8 @@ body {
 box-sizing: inherit;
 }
 ul {
-    display: center;
-    justify-content:Space-between;
+    display: flex;
+    justify-content: space-between;
     flex-direction: row;
     list-style-type: none;
     padding: 0;
