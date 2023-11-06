@@ -14,9 +14,9 @@ body {
 box-sizing: inherit;
 }
 ul {
-    display: flex;
+    display: center;
     justify-content:Space-between;
-    flex-direction: column;
+    flex-direction: row;
     list-style-type: none;
     padding: 0;
     margin: 0;
